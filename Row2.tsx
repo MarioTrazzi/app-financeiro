@@ -25,7 +25,7 @@ const Row2 = () => {
   return (
    <DashboardBox gridArea = "b">
     <LoadScript
-      googleMapsApiKey={'AIzaSyDQmihtWJICIdIBgqZ_bhFhpW2pgQI9lJs'}
+      googleMapsApiKey={'APIKEY'}
     >
       <GoogleMap
         mapContainerStyle={{width: '100%', height: '100%'}}
